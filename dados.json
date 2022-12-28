@@ -1,0 +1,66 @@
+[
+    {
+        "categoria":"Mensal e Semanal",
+        "produtos":[
+            {
+                "titulo":"Planner Bem Estar - 365 dias",
+                "descricao":"Um planner voltado para o bem-estar e o desenvolvimento pessoal. O futuro está em suas mãos. Literalmente. O planner 365 dias de bem-estar vai ajudar você a organizar melhor os compromissos diários, semanais e mensais, aproveitando ao máximo todas as estações do ano. ",
+                "imagem":"img/planner_bemEstar.jpg",
+                "url_compra":"https://www.amazon.com.br/365-dias-bem-estar-Carolina-Chagas/dp/8584391819",
+                "html_amostra":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus fringilla maximus metus, a suscipit nibh rhoncus nec. Vivamus eget diam sagittis, rhoncus tellus sit amet, euismod justo. Nullam et est felis. Maecenas ut felis et mi pulvinar condimentum facilisis non massa. Suspendisse vel dolor lectus. Morbi vulputate laoreet dolor in viverra. Integer at erat finibus, congue mauris sed, commodo leo. Etiam non orci quam.</p>"
+            },
+            {
+                "titulo":"Meu Plano Perfeito - 5ª Edição (2023)",
+                "descricao":"No Meu Plano Perfeito você conseguirá organizar todas as esferas da sua vida em um só lugar! Ele é um planner anual que vai muito além de uma agenda, essa parte de agenda, inclusive, é apenas uma das 7 abas contidas no planner!  As abas são: AGENDA, CASA, RELACIONAMENTOS, FÉ, TRABALHO, VIDA PESSOAL e uma aba PERSONALIZÁVEL, para você usar onde sentir necessidade como estudos, plano de exercícios físicos, anotações diversas, ministerial, ou complemento de alguma outra área...",
+                "imagem":"img/planner_mensal_semanal_meuPlanoPerfeito.jpg",
+                "url_compra":"https://www.amazon.com.br/Meu-Plano-Perfeito-NATUREZA-Exclusivo/dp/6556894109/ref=sr_1_2?keywords=meu+plano+perfeito&qid=1672100855&sr=8-2",
+                "html_amostra":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus fringilla maximus metus, a suscipit nibh rhoncus nec. Vivamus eget diam sagittis, rhoncus tellus sit amet, euismod justo. Nullam et eectus. Morbi vulputate laoreet dolor in viverra. Integer at erat finibus, congue mauris sed, commodo leo. Etiam non orci quam.</p>"
+            },
+            {
+                "titulo":"Purpose Planner 2023: Ressurreição",
+                "descricao":"O Purpose Planner 2023 é um Planner Cristão, desenvolvido para ser uma ferramenta na sua jornada de produtividade Cristã, de honrar e glorificar ao Senhor em todas as áreas da vida, colocando ele como centro em todas as atividades, de modo a seguirmos a cadência do Senhor, ritmados pelo Espírito Santo. Produzido com diversas ferramentas de orientação pensadas para uma maior organização, foco e disciplina rumo a honrar e glorificar o Senhor, seja com o desenvolvimento espiritual, seja com as atividades comuns do dia-a-dia!",
+                "imagem":"img/planner_mensal_semanal_purpose.jpg",
+                "url_compra":"https://www.purposepaper.com.br/products/%E2%9C%A8pre-venda%E2%9C%A8-purpose-planner-2023-ressurreicao?variant=43310017446132&currency=BRL&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=CjwKCAiAqaWdBhAvEiwAGAQltmqO2UkG5QhXpjOeJE4GZD95blWIfLrp9WOtLXfk7_MH1obl1rBwoRoCRKoQAvD_BwE",
+                "html_amostra":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus fringilla maximus metus, a suscilectus. Morbi vulputate laoreet dolor in viverra. Integer at erat finibus, congue mauris sed, commodo leo. Etiam non orci quam.</p>"
+            }                        
+        ]
+    },
+    {
+        "categoria":"Semanal",
+        "produtos":[
+            {
+                "titulo":"Planner Semanal de Mesa | Vida na Floresta",
+                "descricao":"Para quem tem uma mesa fixa no trabalho, ou um cantinho de apoio em casa para organizar e visualizar a semana. Planner em tamanho A4, com espaço para anotar mais detalhes... ou rabiscar, mesmo.planeje sua semana e ganhe tempo pra fazer aquilo que mais gosta, agilize sua rotina e tenha tempo para você.",
+                "imagem":"img/planner_semanal_VidaFloresta.jpg",
+                "url_compra":"https://www.amazon.com.br/Planner-Semanal-Mesa-Vida-Floresta/dp/B09NF17CNQ/ref=asc_df_B09NF17CNQ/?tag=googleshopp00-20&linkCode=df0&hvadid=379805835314&hvpos=&hvnetw=g&hvrand=18289761274558679391&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001566&hvtargid=pla-1642674666384&psc=1",
+                "html_amostra":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus fringilla maximus metus, a suscipit nibh rhoncus nec. Vivamus eget diam sagittis, rhoncus tellus sit amet, euismod justo. Nullam et est felis. Maecenas ut felis et mi pulvinar condimentum facilisis non massa. Suspendisse vel dolor lectus. Morbi vulputate laoreet dolor in viverra. Integer at erat finibus, congue mauris sed, commodo leo. Etiam non orci quam.</p>"
+            },
+            {
+                "titulo":"Planner Permanente Bloco Pastel Block Semanal 24,5x20,3",
+                "descricao":"O Planner Permanente Bloco Pastel Block Semanal 24,5x20,3 é perfeito para quem quer se organizar a médio prazo. Acompanha lista de notas e checagem. Pode servir de mouse pad também. Muitas funções para o melhor do seu planejamento.",
+                "imagem":"img/semanal_cicero.jpg",
+                "url_compra":"https://www.amazon.com/Pequeno-Pr%C3%ADncipe-Portuguese-Antoine-Saint-Exup%C3%A9ry/dp/150715903X",
+                "html_amostra":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus fringilla maximus metus, a suscipit nibh rhoncus nec. Vivamus eget diam sagittis, rhoncus tellus sit amet, euismod justo. Nullam et est felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus fringilla maximus metus, a suscipit nibh rhoncus nec. Vivamus eget diam sagittis, rhoncus tellus sit amet, euismod justo. Nullam et est felis. Maecenas ut felis et mi pulvinar condimentum facilisis non massa. Suspendisse vel dolor lectus. Morbi vulputate laoreet dolor in viverra. Integer at erat finibus, congue mauris sed, commodo leo. Etiam non orci quam.</p>"
+            }                       
+        ]
+    },
+    {
+        "categoria":"Acessórios",
+        "produtos":[
+            {
+                "titulo":"Kit Marca Texto Fofo",
+                "descricao":"Marcadores fora do comum e com cores pastel. Perfeitos para destacar anotações, versículos, frases de livros. Deixando tudo mais charmoso. O Kit vem com 6 cores lindas em tons pastel: Rosa, salmão, azul, lilás, verde e marrom. Tamanho de cada marcador: 13cm de altura x 1cm de largura. Ponta de fibra com toque super suave e macia. Tinta a base de água, não sai do papel. Pincel com tinta do inicio ao fim, possibilitando desenhar traços super finos, curvos e grossos.",
+                "imagem":"img/Kit_Marca_Texto_Fofo.jpg",
+                "url_compra":"https://www.somosfilhas.com/kit-marca-texto-fofo/",
+                "html_amostra":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus fringilla maximus metus, a suscipit nibh rhoncus nec. Vivamus eget diam sagittis, rhoncus tellus sit amet, euismod justo. Nullam et est felis. Maecenas ut felis et mi pulvinar condimentum facilisis non massa. Suspendisse vel dolor lectus. Morbi vulputate laoreet dolor in viverra. Integer at erat finibus, congue mauris sed, commodo leo. Etiam non orci quam.</p>"
+            },
+            {
+                "titulo":"Sticky Notes Corações",
+                "descricao":"Os 4 bloquinhos post-its vão deixar tudo uma fofura. Eles tem um tamanho excelente para destacar atividades no planner, fazer destaques para notas importantes na bíblia, pequenas anotações em livros, cadernos. São de uma delicadeza que só. :)",
+                "imagem":"img/Sticky_Notes_Coracoes.jpg",
+                "url_compra":"https://www.somosfilhas.com/sticky-notes/",
+                "html_amostra":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus fringilla maximus metus, a suscipit nibh rhoncus nec. Vivamus eget diam sagittis, rhoncus tellus sit amet, euismod justo. Nullam et est felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus fringilla maximus metus, a suscipit nibh rhoncus nec. Vivamus eget diam sagittis, rhoncus tellus sit amet, euismod justo. Nullam et est felis. Maecenas ut felis et mi pulvinar condimentum facilisis non massa. Suspendisse vel dolor lectus. Morbi vulputate laoreet dolor in viverra. Integer at erat finibus, congue mauris sed, commodo leo. Etiam non orci quam.</p>"
+            }   
+        ]
+    }    
+]
